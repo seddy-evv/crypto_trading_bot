@@ -1,1 +1,1 @@
-# crypto_trading_bot
+# Crypto trading bot for currency.com with UI
